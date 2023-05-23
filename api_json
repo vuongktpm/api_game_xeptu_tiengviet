@@ -1,25 +1,25 @@
 {
- "content": [
- {
- "question": "LọCồn"
- },
- {
- "question": "Nôngthôn"
- },
- {
- "question": "Chitiết"
- },
- {
- "question": "Điệnảnh"
- },
-  {
- "question": "Cúsốc"
- },
- {
- "question": "Hòanhã"
- },
- {
- "question": "ConCua"
- }
- ]
+  "content": [
+    {
+      "question": "LọCồn"
+    },
+    {
+      "question": "Nôngthôn"
+    },
+    {
+      "question": "Chitiết"
+    },
+    {
+      "question": "Điệnảnh"
+    },
+    {
+      "question": "Cúsốc"
+    },
+    {
+      "question": "Hòanhã"
+    },
+    {
+      "question": "ConCua"
+    }
+  ]
 }
