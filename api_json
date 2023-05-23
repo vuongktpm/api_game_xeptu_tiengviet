@@ -1,8 +1,10 @@
-[
-  
-   "LọCồn"
-  ,
-  
-  "ConCua"
-  
+{
+ "content": [
+ {
+ "question": "LọCồn"
+ },
+ {
+ "question": "ConCua"
+ }
  ]
+}
